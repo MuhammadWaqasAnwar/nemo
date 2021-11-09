@@ -1,0 +1,11 @@
+ffmpeg-python
+librosa
+numpy
+soundfile
+webdataset
+rapidfuzz
+megatron-lm
+nemo_toolkit[all]
+uvicorn[standard]
+fastapi
+python-multipart
